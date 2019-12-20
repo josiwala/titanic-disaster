@@ -1,4 +1,4 @@
-disaster_classification
+titanic_disaster_classification
 ==============================
 
 titanic data science challenge
